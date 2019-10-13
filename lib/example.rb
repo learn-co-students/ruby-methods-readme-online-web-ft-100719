@@ -1,13 +1,11 @@
-# Use this space to code along with the readme
+def say_things_more_efficiently
+  thing_to_say = "I like pie sooooooooooooooooo much. Apple, btw."
+  puts thing_to_say
+  puts thing_to_say
+  puts thing_to_say
+  puts thing_to_say
+  puts thing_to_say
+  puts thing_to_say
+end
 
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+say_things_more_efficiently
